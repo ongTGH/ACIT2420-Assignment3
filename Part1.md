@@ -142,6 +142,7 @@ Now we should restart nginx so that our changes take effect.
 
 5. `sudo systemctl restart nginx`
 
-Well done! Your Debian 12 server is now securely configured with a regular user, restricted root login, and setup with an nginx web server serving a sample HTML page.
+### Well done! 
+Your Debian 12 server is now securely configured with a regular user, restricted root login, and setup with an nginx web server serving a sample HTML page.
 
 To see your web server in action, enter: `curl <ip-address>`
